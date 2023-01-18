@@ -1,0 +1,9 @@
+1. Run following command from your sourcefuse project folder 
+uvicorn app:app --reload
+
+2. Open the following link/url in your browser
+http://127.0.0.1:8000/
+
+3. To access and test all the predictor open the following link
+http://127.0.0.1:8000/docs
+
